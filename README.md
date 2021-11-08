@@ -3,12 +3,12 @@
 ## Overview
 
 ### Create a table to organize UFO data that will be stored as a JavaScript array. With this table, you can filter data based on certain criteria. All this created mainly through Java Script
-
+![alt text](https://github.com/SketchasaurRex/UFOs/blob/main/UFOs/Static/Images/webpage.jpg)
 
 ## Results
 
 ### Using the Filtered Search on this webpage we can filter the database's data of UFO sightings.
-
+![alt text](https://github.com/SketchasaurRex/UFOs/blob/main/UFOs/Static/Images/Filtered_Table.PNG)
 
 ## Summary
 
